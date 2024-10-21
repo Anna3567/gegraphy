@@ -5,6 +5,7 @@ main {
   .logo {
     width: 200px;
     height: 100px;
+    display: block;
   }
   
   .title__Earth {
@@ -24,6 +25,7 @@ main {
     font-size: 100px;
     border-radius: 20px;
     transform: translateY(10px);
+    display: block
   }
   
   .page-title {
@@ -188,4 +190,9 @@ main {
     font-size: 100px;
     text-align: center;
   }
-  /* button with 2px padding 
+.slider__img{
+  display: block
+}
+.to{
+  display: block
+}
